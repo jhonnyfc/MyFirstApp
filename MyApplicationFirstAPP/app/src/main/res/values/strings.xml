@@ -2,5 +2,7 @@
     <string name="app_name">La Comedia</string>
     <string name="cuadro">Hello Pachacho</string>
     <string name="boton">Don\'t Click</string>
-
+    <string name="botonAdd">Add Word</string>
+    <string name="editWord">Pon Tu Palabra</string>
+    <string name="botonOK">Volver</string>
 </resources>
